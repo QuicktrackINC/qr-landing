@@ -41,6 +41,7 @@ function App() {
     <div className="container">
       <header className="header">
         <div className="logo-container">
+          <img src="/logo.png" alt="LaMa Group Logo" className="header-logo" />
           <h1 className="logo-title">
             <span className="logo-orange">LaMa</span>
             <span className="logo-black">Group</span>
