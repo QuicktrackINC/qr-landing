@@ -17,7 +17,7 @@ function App() {
     },
     {
       title: 'Lama Convenience',
-      url: 'https://lamaconvenience.com',
+      url: 'https://lamaconvenience.org/',
       icon: <Store size={22} />,
     },
     {
@@ -29,11 +29,6 @@ function App() {
       title: 'Pasang Lama',
       url: 'https://pasanglama.com',
       icon: <Globe size={22} />,
-    },
-    {
-      title: 'Lama Fuel',
-      url: 'https://lamafuel.com',
-      icon: <Fuel size={22} />,
     }
   ];
 
