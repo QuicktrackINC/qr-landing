@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, ShoppingBag, Store, Building2, Globe, Fuel } from 'lucide-react';
+import { ArrowRight, ShoppingBag, Store, Building2, Globe } from 'lucide-react';
 import './index.css';
 
 interface LinkItem {
